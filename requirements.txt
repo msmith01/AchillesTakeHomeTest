@@ -1,0 +1,10 @@
+pymupdf
+tiktoken
+torch
+transformers
+chromadb
+ollama
+rich
+streamlit
+reportlab
+pandas

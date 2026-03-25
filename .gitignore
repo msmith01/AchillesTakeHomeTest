@@ -1,0 +1,28 @@
+# Data — rebuild locally with process_earnings.py
+raw_data/
+chroma_store/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets / env
+.env
+*.env
+
+# Claude Code internals
+.claude/
