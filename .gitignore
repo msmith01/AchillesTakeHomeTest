@@ -1,7 +1,3 @@
-# Data — rebuild locally with process_earnings.py
-raw_data/
-chroma_store/
-
 # Python
 __pycache__/
 *.py[cod]
